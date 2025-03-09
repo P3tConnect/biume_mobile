@@ -1,2 +1,2 @@
-# pawthera_mobile
-Mobile version of PawThera
+# biume_mobile
+Mobile version of Biume
